@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" tvg-id="61409f8d6feb30000766b675" group-title="PLUTO Dokus+Wissen",Pluto TV Space
+https://i.mjh.nz/PlutoTV/61409f8d6feb30000766b675-alt.m3u8
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" tvg-id="5d767ae7b456c8cf265ce922" group-title="PLUTO Dokus+Wissen",Pluto TV Animals
+https://i.mjh.nz/PlutoTV/5d767ae7b456c8cf265ce922-alt.m3u8
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/colorLogoPNG.png" tvg-id="5be1c3f9851dd5632e2c91b2" group-title="PLUTO Dokus+Wissen",Pluto TV Nature
+https://i.mjh.nz/PlutoTV/5be1c3f9851dd5632e2c91b2-alt.m3u8
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" tvg-id="5ad9b8551b95267e225e59c1" group-title="PLUTO Dokus+Wissen",Pluto TV Explore
+https://i.mjh.nz/PlutoTV/5ad9b8551b95267e225e59c1-alt.m3u8
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5db048f9447d6c0009b8f29d/colorLogoPNG.png" tvg-id="5db048f9447d6c0009b8f29d" group-title="PLUTO Dokus+Wissen",Pluto TV Documentaries
+https://i.mjh.nz/PlutoTV/5db048f9447d6c0009b8f29d-alt.m3u8
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png" tvg-id="5d767b4889bca2ce7b73ef2e" group-title="PLUTO Dokus+Wissen",Pluto TV Science
+https://i.mjh.nz/PlutoTV/5d767b4889bca2ce7b73ef2e-alt.m3u8
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/60e4519e6873180007d3cddb/colorLogoPNG.png" tvg-id="60e4519e6873180007d3cddb" group-title="PLUTO Dokus+Wissen",BBC Travel
+https://i.mjh.nz/PlutoTV/60e4519e6873180007d3cddb-alt.m3u8
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png" tvg-id="5d767b1c126c65d0a307355f" group-title="PLUTO Dokus+Wissen",Pluto TV History
+https://i.mjh.nz/PlutoTV/5d767b1c126c65d0a307355f-alt.m3u8
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/61409b5108ae6e0007f9b189/colorLogoPNG.png" tvg-id="61409b5108ae6e0007f9b189" group-title="PLUTO Dokus+Wissen",Pluto TV Biografie
+https://i.mjh.nz/PlutoTV/61409b5108ae6e0007f9b189-alt.m3u8
+#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/60080e8a4bf36000076a81b1/colorLogoPNG.png" tvg-id="N24Doku.de" group-title="PLUTO Dokus+Wissen",N24 Doku
+https://i.mjh.nz/PlutoTV/60080e8a4bf36000076a81b1-alt.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auto%2C_Motor_und_Sport.svg/320px-Auto%2C_Motor_und_Sport.svg.png" tvg-id="Auto Motor und Sport" group-title="PLUTO Auto Moto",Auto Motor und Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
+#EXTINF:0 tvg-id="RTL" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/RTL.png" group-title="WEB-TV-DE",DE: RTL
+https://s6.hopslan.com/rtlq1/index.m3u8
+#EXTINF:0 tvg-id="RTL ZWEI" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/RTL2.png" group-title="WEB-TV-DE",DE: RTL ZWEI
+https://s6.hopslan.com/rtl2x1/index.m3u8
+#EXTINF:0 tvg-id="VOX" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/VOX.png" group-title="WEB-TV-DE",DE: VOX
+https://s6.hopslan.com/voxx1/index.m3u8
+#EXTINF:0 tvg-id="SAT.1" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/SAT1.png" group-title="WEB-TV-DE",DE: SAT.1
+https://s6.hopslan.com/sat1x1/index.m3u8
+#EXTINF:0 tvg-id="NITRO" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/NITRO.png" group-title="WEB-TV-DE",DE: NITRO
+https://s6.hopslan.com/nitrox1/index.m3u8
+#EXTINF:0 tvg-id="SIXX" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/SIXX.png" group-title="WEB-TV-DE",DE: SIXX
+https://s6.hopslan.com/sixx1/index.m3u8
+#EXTINF:0 tvg-id="SupeR RTL" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/SuperRTL.png" group-title="WEB-TV-DE",DE: SupeR RTL
+https://s6.hopslan.com/superx1/index.m3u8
+#EXTINF:0 tvg-id="ProSieben" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/ProSieben.png" group-title="WEB-TV-DE",DE: ProSieben
+https://s6.hopslan.com/pro7x1/index.m3u8
+#EXTINF:0 tvg-id="ProSieben MAXX" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/Pro7MAXX.png" group-title="WEB-TV-DE",DE: ProSieben MAXX
+https://s6.hopslan.com/pro7maxx1/index.m3u8
+#EXTINF:0 tvg-id="Kabel Eins" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/KabelEins.png" group-title="WEB-TV-DE",DE: Kabel Eins
+https://s6.hopslan.com/kabel1x1/index.m3u8
+#EXTINF:0 tvg-id="Kabel Eins Doku" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/KabelEinsDOKU.png" group-title="WEB-TV-DE",DE: Kabel Eins Doku
+https://s6.hopslan.com/dokux1/index.m3u8
+#EXTINF:0 tvg-id="WELT.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/WELT.png" group-title="WEB-TV-DE",DE: WELT
+https://s6.hopslan.com/n24x1/index.m3u8
+#EXTINF:0 tvg-id="ntv.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/n-tv.png"group-title="WEB-TV-DE",DE: N-TV
+https://s6.hopslan.com/ntvx1/index.m3u8
+#EXTINF:0 tvg-id="3sat" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/3Sat.png" group-title="WEB-TV-DE",DE: 3sat
+https://s6.hopslan.com/3sat/index.m3u8
+#EXTINF:0 tvg-id="ZDF" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/ZDF.png" group-title="WEB-TV-DE",DE: ZDF
+https://s6.hopslan.com/zdfx1/index.m3u8
+#EXTINF:0 tvg-id="ZDFNeo" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/ZDFneo.png" group-title="WEB-TV-DE",DE: ZDFNeo
+https://s6.hopslan.com/zdfneox1/index.m3u8
+#EXTINF:0 tvg-id="ZDFInfo" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/ZDFinfo.png" group-title="WEB-TV-DE",DE: ZDFInfo
+https://s6.hopslan.com/zdfinfox1/index.m3u8
+#EXTINF:0 tvg-id="Welt Der Wunder" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/WW.png" group-title="WEB-TV-DE",DE: Welt Der Wunder
+https://s4.hopslan.com/wunder/index.m3u8
+#EXTINF:0 tvg-id="ComedyCentralVIVA.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/COMEDYCENTRAL.png" group-title="WEB-TV-DE",DE: COMEDY CENTRAL
+https://s6.hopslan.com/vivax1/index.m3u8
+#EXTINF:0 tvg-id="DMax.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/DMAX.png" group-title="WEB-TV-DE",DE: DMAX
+https://s6.hopslan.com/dmax1/index.m3u8
+#EXTINF:0 tvg-id="Servus TV" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/ServusTV.png" group-title="WEB-TV-DE",DE: Servus TV
+https://s6.hopslan.com/servusx1/index.m3u8
+#EXTINF:0 tvg-id="Sat.1 GOLD" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/main/SAT1Gold.png" group-title="WEB-TV-DE",DE: Sat.1 GOLD
+https://s6.hopslan.com/goldx1/index.m3u8
+#EXTINF:0 tvg-id="ORF 1" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png" group-title="WEB-F1",AT: ORF 1
+https://s6.hopslan.com/orfx1/index.m3u8
+#EXTINF:0 tvg-id="ORF 1" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png" group-title="WEB-F1",AT: ORF 1
+https://s.hdtvizlecanli.com/orf1a.m3u8
+#EXTINF:0 tvg-id="SRF 1" tvg-logo="https://2ix2.com/wp-content/uploads/2021/06/51.png" group-title="WEB-F1",CH: SRF 1
+https://s6.hopslan.com/srf1/index.m3u8
+#EXTINF:0 tvg-id="SRF zwei" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/50.png" group-title="WEB-F1",CH: SRF zwei
+https://s6.hopslan.com/srf2/index.m3u8
+#EXTINF:0 tvg-id="SRF info" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/52.png" group-title="WEB-F1",CH: SRF info
+https://s6.hopslan.com/srfinfo/index.m3u8
+#EXTINF:0 tvg-id="Sky Sport F1" tvg-logo="https://sender.epglogos.de/256x256/561.png" group-title="WEB-F1",UK: Sky Sport F1
+https://catchystream.xyz/live/stream_f1.m3u8
+#EXTINF:0 tvg-id="EuronewsSerbia.rs" tvg-logo="https://i.imgur.com/7rK00VE.png" group-title="SRB",Euronews Serbia
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
+#EXTINF:0 tvg-id="N1Serbia.rs" tvg-logo="https://i.imgur.com/XdEdnLD.png" group-title="SRB",N1 Serbia
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:0 tvg-id="Deluxe Dance" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2020/01/logo_dance-deluxe.png" group-title="MUSIC",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0 tvg-id="Deluxe Flashback" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png" group-title="MUSIC",Deluxe Flashback
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:0 tvg-id="Schlager Deluxe" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/05/SCHLAGER_DELUXE_LOGO_neu.png" group-title="MUSIC",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
