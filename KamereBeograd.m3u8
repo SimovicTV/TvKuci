@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:0 group-title="Kamere" Ada
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/ada.m3u8
+#EXTINF:0 group-title="Kamere" Autokomanda
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/autokomanda.m3u8
+#EXTINF:0 group-title="Kamere" Bogoslovija
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/bogoslovija.m3u8
+#EXTINF:0 group-title="Kamere" Brankov most
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/brankov.m3u8
+#EXTINF:0 group-title="Kamere" Despota Stefana
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/despotastefana.m3u8
+#EXTINF:0 group-title="Kamere" Bul.Jurija Gagarina
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/gagarina.m3u8
+#EXTINF:0 group-title="Kamere" Gazela most
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/gazela.m3u8
+#EXTINF:0 group-title="Kamere" Genex autoput
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/genex.m3u8
+#EXTINF:0 group-title="Kamere" Nemanjina
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/nemanjina.m3u8
+#EXTINF:0 group-title="Kamere" Opstina NBG
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/opstinanbg.m3u8
+#EXTINF:0 group-title="Kamere" Pančevački most
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/pancevac.m3u8
+#EXTINF:0 group-title="Kamere" Plavi most (Medak)
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/plavimost.m3u8
+#EXTINF:0 group-title="Kamere" Bul. Mihaila Pupina
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/pupina.m3u8
+#EXTINF:0 group-title="Kamere" Slavija
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/slavija.m3u8
+#EXTINF:0 group-title="Kamere" Takovska
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/takovska.m3u8
+#EXTINF:0 group-title="Kamere" Trg Nikole Pašića
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/trgnikole.m3u8
+#EXTINF:0 group-title="Kamere" Trg Republike
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/trgrepublike.m3u8
+#EXTINF:0 group-title="Kamere" Vukov spomenik
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/vuk.m3u8
+#EXTINF:0 group-title="Kamere" Železnicka stanica (stara).m3u8
+#EXTVLCOPT:network-caching=1000
+https://streamer.devnet.rs/hls/zeleznicka.m3u8
