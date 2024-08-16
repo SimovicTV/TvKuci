@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Savski Trg
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/savski-trg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , BIP Pivara (Mostar)
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/bip-pivara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Pravni fakultet
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/tas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Zeleni venac
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/zeleni-venac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Poštanska štedionica
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/postanska-stedionica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Beograd na vodi (panorama)
+https://youtu.be/z5RV2xAIvpk
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Terazije
+https://youtu.be/HZzlR_ghEl4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Ada
 https://streamer.devnet.rs/hls/ada.m3u8
 
@@ -27,11 +48,17 @@ https://streamer.devnet.rs/hls/genex.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Nemanjina
 https://streamer.devnet.rs/hls/nemanjina.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Nemanjina 2
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Opstina NBG
 https://streamer.devnet.rs/hls/opstinanbg.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Pančevački most
 https://streamer.devnet.rs/hls/pancevac.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Pančevački most 2
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/pancevac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Plavi most (Medak)
 https://streamer.devnet.rs/hls/plavimost.m3u8
@@ -42,6 +69,9 @@ https://streamer.devnet.rs/hls/pupina.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Slavija
 https://streamer.devnet.rs/hls/slavija.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Slavija 2
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Takovska
 https://streamer.devnet.rs/hls/takovska.m3u8
 
@@ -50,6 +80,9 @@ https://streamer.devnet.rs/hls/trgnikole.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Trg Republike
 https://streamer.devnet.rs/hls/trgrepublike.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Trg Republike 2
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/trg-republike/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Vukov spomenik
 https://streamer.devnet.rs/hls/vuk.m3u8
