@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-PLAYLIST-TYPE: EVENT
 
 #EXTINF:-1 group-title="Kamere" Ada
 https://streamer.devnet.rs/hls/ada.m3u8
