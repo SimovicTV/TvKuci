@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Beograd na vodi (panorama)
-https://youtu.be/z5RV2xAIvpk
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Ada
 https://streamer.devnet.rs/hls/ada.m3u8
 
