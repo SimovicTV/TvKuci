@@ -1,0 +1,118 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="RTL.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/RTL.png" group-title="Germany", RTL
+plugin://plugin.video.vavooto/?name=RTL
+#EXTINF:-1 tvg-ID="RTLZWEI.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/RTL2.png" group-title="Germany", RTLZWEI
+plugin://plugin.video.vavooto/?name=RTL 2
+#EXTINF:-1 tvg-ID="RTL Living.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/RTL_Living.png" group-title="Germany", RTL LIVING
+plugin://plugin.video.vavooto/?name=RTL LIVING
+#EXTINF:-1 tvg-ID="ProSieben.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/ProSieben.png" group-title="Germany", PRO 7
+plugin://plugin.video.vavooto/?name=PRO 7
+#EXTINF:-1 tvg-ID="SAT.1.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/SAT1.png" group-title="Germany", SAT 1
+plugin://plugin.video.vavooto/?name=SAT 1
+#EXTINF:-1 tvg-ID="Kabel Eins.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/KabelEins.png" group-title="Germany", KABEL 1
+plugin://plugin.video.vavooto/?name=KABEL 1
+#EXTINF:-1 tvg-ID="VOX.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/VOX.png" group-title="Germany", VOX
+plugin://plugin.video.vavooto/?name=VOX
+#EXTINF:-1 tvg-ID="sixx.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/SIXX.png" group-title="Germany", SIXX
+plugin://plugin.video.vavooto/?name=SIXX
+#EXTINF:-1 tvg-ID="DMAX.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/DMAX.png" group-title="Germany", DMAX
+plugin://plugin.video.vavooto/?name=DMAX
+#EXTINF:-1 tvg-ID="13th Street.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/13th_Street_HD_Logo_2020.png" group-title="Germany",13TH STREET
+plugin://plugin.video.vavooto/?name=13TH STREET
+#EXTINF:-1 tvg-ID="SYFY.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Syfy-Logo.png" group-title="Germany", SYFY
+plugin://plugin.video.vavooto/?name=SYFY
+#EXTINF:-1 tvg-ID="Universal TV.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/universal-tv-logo.png" group-title="Germany", UNIVERSAL TV
+plugin://plugin.video.vavooto/?name=UNIVERSAL TV
+#EXTINF:-1 tvg-ID="Kabel Eins Doku.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/KabelEinsDOKU.png" group-title="Germany", KABEL 1 DOKU
+plugin://plugin.video.vavooto/?name=KABEL 1 DOKU
+#EXTINF:-1 tvg-ID="N24 Doku.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/n24-doku.png" group-title="Germany", N24 DOKU
+plugin://plugin.video.vavooto/?name=N24 DOKU
+#EXTINF:-1 tvg-ID="Home and Garden TV.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/hgtv-logo-png-transparent.png" group-title="Germany", HGTV
+plugin://plugin.video.vavooto/?name=HGTV
+#EXTINF:-1 tvg-ID="Discovery Channel.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Discovery_Channel-logo.png" group-title="Germany", DISCOVERY
+plugin://plugin.video.vavooto/?name=DISCOVERY
+#EXTINF:-1 tvg-ID="Animal Planet.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Animal_Planet_logo.png" group-title="Germany", Animal Planet
+plugin://plugin.video.vavooto/?name=PLANET
+#EXTINF:-1 tvg-ID="GEO Television.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/geo-television.png" group-title="Germany", GEO TV
+plugin://plugin.video.vavooto/?name=GEO TV
+#EXTINF:-1 tvg-ID="HISTORY.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/history.png" group-title="Germany", HISTORY
+plugin://plugin.video.vavooto/?name=HISTORY
+#EXTINF:-1 tvg-ID="National Geographic WILD.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Nat_Geo_Wild_logo.png" group-title="Germany", NAT GEO WILD
+plugin://plugin.video.vavooto/?name=NAT GEO WILD
+#EXTINF:-1 tvg-ID="National Geographic.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/national-geographic.png" group-title="Germany", NATIONAL GEOGRAPHIC
+plugin://plugin.video.vavooto/?name=NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-ID="Welt der Wunder.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/WW.png" group-title="Germany", WELT DER WUNDER
+plugin://plugin.video.vavooto/?name=WELT DER WUNDER
+#EXTINF:-1 tvg-ID="ZDF.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/ZDF.png" group-title="Germany", ZDF
+plugin://plugin.video.vavooto/?name=ZDF
+#EXTINF:-1 tvg-ID="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/ZDFinfo.png" group-title="Germany", ZDF INFO
+plugin://plugin.video.vavooto/?name=ZDF INFO
+#EXTINF:-1 tvg-ID="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/ZDF_neo.png" group-title="Germany", ZDF NEO
+plugin://plugin.video.vavooto/?name=ZDF NEO
+#EXTINF:-1 tvg-ID="WDR Koln.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/WDR_Fernsehen_Logo.png" group-title="Germany", WDR
+plugin://plugin.video.vavooto/?name=WDR
+#EXTINF:-1 tvg-ID="ONE.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/one-de.png" group-title="Germany", ONE
+plugin://plugin.video.vavooto/?name=ONE
+#EXTINF:-1 tvg-ID="ARTE.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/arte.png" group-title="Germany", ARTE
+plugin://plugin.video.vavooto/?name=ARTE
+#EXTINF:-1 tvg-ID="3sat.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/3Sat.png" group-title="Germany", 3 SAT
+plugin://plugin.video.vavooto/?name=3 SAT
+#EXTINF:-1 tvg-ID="phoenix.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Phoenix_Logo.png" group-title="Germany", PHOENIX
+plugin://plugin.video.vavooto/?name=PHOENIX
+#EXTINF:-1 tvg-ID="Servus.TV.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/ServusTV.png" group-title="Germany", SERVUS TV
+plugin://plugin.video.vavooto/?name=SERVUS TV
+#EXTINF:-1 tvg-ID="DW.(Europe).de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/DW_(TV)_Logo_2012.png" group-title="Germany", DW DEUTSCH
+plugin://plugin.video.vavooto/?name=DW DEUTSCH
+#EXTINF:-1 tvg-ID="n-tv.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/n-tv.png" group-title="Germany", NTV
+plugin://plugin.video.vavooto/?name=NTV
+#EXTINF:-1 tvg-ID="WELT.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/WELT.png" group-title="Germany", WELT
+plugin://plugin.video.vavooto/?name=WELT
+#EXTINF:-1 tvg-ID="euronews.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Euronews.png" group-title="Germany", EURONEWS
+plugin://plugin.video.vavooto/?name=EURONEWS
+#EXTINF:-1 tvg-ID="RTL Crime.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/RTL_Crime.png" group-title="Germany", RTL CRIME
+plugin://plugin.video.vavooto/?name=RTL CRIME
+#EXTINF:-1 tvg-ID="RTL Passion.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/RTL_Passion.png" group-title="Germany", RTL PASSION
+plugin://plugin.video.vavooto/?name=RTL PASSION
+#EXTINF:-1 tvg-ID="RTLup.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/RTLup.png" group-title="Germany", RTL UP
+plugin://plugin.video.vavooto/?name=RTL UP
+#EXTINF:-1 tvg-ID="NITRO.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/NITRO.png" group-title="Germany", RTL NITRO
+plugin://plugin.video.vavooto/?name=RTL NITRO
+#EXTINF:-1 tvg-ID="SUPER RTL.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/RTL%20Super.png" group-title="Germany", RTL Super
+plugin://plugin.video.vavooto/?name=SUPER RTL
+#EXTINF:-1 tvg-ID="ProSieben FUN.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/ProSieben_FUN.png" group-title="Germany", PRO 7 FUN
+plugin://plugin.video.vavooto/?name=PRO 7 FUN
+#EXTINF:-1 tvg-ID="ProSieben MAXX.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Pro7MAXX.png" group-title="Germany", PRO 7 MAXX
+plugin://plugin.video.vavooto/?name=PRO 7 MAXX
+#EXTINF:-1 tvg-ID="SAT.1 GOLD.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/SAT1Gold.png" group-title="Germany", SAT 1 GOLD
+plugin://plugin.video.vavooto/?name=SAT 1 GOLD
+#EXTINF:-1 tvg-ID="VOXup.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Voxup_Logopng.png" group-title="Germany", VOX UP
+plugin://plugin.video.vavooto/?name=VOX UP
+#EXTINF:-1 tvg-ID="Eurosport 1.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Eurosport_1_Logopng.png" group-title="Germany", EUROSPORT 1
+plugin://plugin.video.vavooto/?name=EUROSPORT 1
+#EXTINF:-1 tvg-ID="Eurosport 2.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Eurosport_2_Logo.png" group-title="Germany", EUROSPORT 2
+plugin://plugin.video.vavooto/?name=EUROSPORT 2
+#EXTINF:-1 tvg-ID="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Sky_Sports_F1_logo.png" group-title="Germany", SKY SPORT F1 L-1
+plugin://plugin.video.vavooto/?name=SKY SPORT F1
+#EXTINF:-1 tvg-ID="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Sky_Sports_F1_logo.png" group-title="Germany", SKY SPORT F1 L-2
+plugin://plugin.video.vavooto/?name=SKY SPORTS F1
+#EXTINF:-1 tvg-ID="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Sky_Sports_F1_logo.png" group-title="Germany", SKY SPORT F1 L-3
+plugin://plugin.video.vavooto/?name=SSPORT F1
+#EXTINF:-1 tvg-ID="auto motor sport channel.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Auto_motor_sport_channel_logo.png" group-title="Germany", AUTO MOTOR SPORT
+plugin://plugin.video.vavooto/?name=AUTO MOTOR SPORT
+#EXTINF:-1 tvg-ID="MOTORVISION+.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/MOTORVISION%2B.png" group-title="Germany", MOTORVISION+
+plugin://plugin.video.vavooto/?name=MOTORVISION
+#EXTINF:-1 tvg-ID="DAZN 1.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/DAZN_1.png" group-title="Germany", DAZN 1
+plugin://plugin.video.vavooto/?name=DAZN 1
+#EXTINF:-1 tvg-ID="DAZN 2.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/DAZN_2.png" group-title="Germany", DAZN 2
+plugin://plugin.video.vavooto/?name=DAZN 2
+#EXTINF:-1 tvg-ID="DELUXE MUSIC.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Deluxe-Musik-logo.png" group-title="Germany", DELUXE MUSIC
+plugin://plugin.video.vavooto/?name=DELUXE MUSIC
+#EXTINF:-1 tvg-ID="ORF.eins.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/ORF1.png" group-title="Germany", ORF 1
+plugin://plugin.video.vavooto/?name=ORF 1
+#EXTINF:-1 tvg-ID="ORF.2.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/ORF2.png" group-title="Germany", ORF 2
+plugin://plugin.video.vavooto/?name=ORF 2
+#EXTINF:-1 tvg-ID="ORF.III.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/orf-3.png" group-title="Germany", ORF 3
+plugin://plugin.video.vavooto/?name=ORF 3
+#EXTINF:-1 tvg-ID="ORF.SPORT.+.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/orf-sport%2B-logo.png" group-title="Germany", ORF SPORT+
+plugin://plugin.video.vavooto/?name=ORF SPORT
