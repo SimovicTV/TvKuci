@@ -258,7 +258,7 @@ plugin://plugin.video.vavooto/?name=STUDIO B .s
 plugin://plugin.video.vavooto/?name=SUPER STAR TV HD .b
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/tlc-rs.png" group-title="Balkan",TLC
 plugin://plugin.video.vavooto/?name=TLC .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/tom-and-jerry.png" group-title="Balkan",TOM AND JERRY .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/tom-and-jerry.png" group-title="Balkan",TOM AND JERRY
 plugin://plugin.video.vavooto/?name=TOM AND JERRY .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/nasa-tv-logo_finalno.png" group-title="Balkan",TV NASHA
 plugin://plugin.video.vavooto/?name=TV NASHA .s
