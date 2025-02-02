@@ -112,19 +112,19 @@ plugin://plugin.video.vavooto/?name=CINE%2b SELECT 6 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 7 .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Balkan",CINE+ SELECT 9 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 9 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINEMANIA .b
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/cinemania.png" group-title="Balkan",CINEMANIA .b
 plugin://plugin.video.vavooto/?name=CINEMANIA .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINEMAX 1 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/Cinemax_new.png" group-title="Balkan",CINEMAX 1 .s
 plugin://plugin.video.vavooto/?name=CINEMAX 1 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINEMAX 2 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/Cinemax_new.png" group-title="Balkan",CINEMAX 2 .s
 plugin://plugin.video.vavooto/?name=CINEMAX 2 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINESTAR ACTION .b
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/cinestar-tv-action-rs.png" group-title="Balkan",CINESTAR ACTION .b
 plugin://plugin.video.vavooto/?name=CINESTAR ACTION .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINESTAR FANTASY .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/cinestar-tv-fantasy-rs.png" group-title="Balkan",CINESTAR FANTASY .s
 plugin://plugin.video.vavooto/?name=CINESTAR FANTASY .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINESTAR PREMIERE 1 .b
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/cinestar-tv-premiere1-hr.png" group-title="Balkan",CINESTAR PREMIERE 1 .b
 plugin://plugin.video.vavooto/?name=CINESTAR PREMIERE 1 .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINESTAR PREMIERE 2 .b
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/cinestar-tv-premiere2-hr.png" group-title="Balkan",CINESTAR PREMIERE 2 .b
 plugin://plugin.video.vavooto/?name=CINESTAR PREMIERE 2 .b
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",TV 1000 .c
 plugin://plugin.video.vavooto/?name=TV 1000 .c
