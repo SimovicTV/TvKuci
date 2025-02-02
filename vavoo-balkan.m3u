@@ -74,7 +74,7 @@ plugin://plugin.video.vavooto/?name=BHT 1 .s
 plugin://plugin.video.vavooto/?name=BALKANIKA .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/crime-and-investigation-rs.png" group-title="Balkan",CRIME+ INVESTIGATION .c
 plugin://plugin.video.vavooto/?name=CRIME%2b INVESTIGATION .c
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/world-latin-america/star-channel-lam.png" group-title="Balkan",STAR Chanel
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/world-latin-america/star-channel-lam.png" group-title="Balkan",STAR Channel
 plugin://plugin.video.vavooto/?name=FOX .b
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/argentina/star-life-ar.png" group-title="Balkan",STAR Life
 plugin://plugin.video.vavooto/?name=FOX LIFE .c
@@ -94,23 +94,23 @@ plugin://plugin.video.vavooto/?name=FILMBOX .s
 plugin://plugin.video.vavooto/?name=FOOD NETWORK .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/sci-fi-rs.png" group-title="Balkan",SCIFI .b
 plugin://plugin.video.vavooto/?name=SCIFI .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINE+ SELECT 1 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Balkan",CINE+ SELECT 1 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 1 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINE+ SELECT 10 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Balkan",CINE+ SELECT 10 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 10 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINE+ SELECT 2 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Balkan",CINE+ SELECT 2 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 2 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINE+ SELECT 3 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Balkan",CINE+ SELECT 3 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 3 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINE+ SELECT 4 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Balkan",CINE+ SELECT 4 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 4 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINE+ SELECT 5 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Balkan",CINE+ SELECT 5 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 5 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINE+ SELECT 6 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Balkan",CINE+ SELECT 6 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 6 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINE+ SELECT 7 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Balkan",CINE+ SELECT 7 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 7 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINE+ SELECT 9 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Cine%2B.png" group-title="Balkan",CINE+ SELECT 9 .s
 plugin://plugin.video.vavooto/?name=CINE%2b SELECT 9 .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINEMANIA .b
 plugin://plugin.video.vavooto/?name=CINEMANIA .b
