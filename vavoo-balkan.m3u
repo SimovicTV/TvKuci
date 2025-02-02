@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="RTS 1 HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts1-rs.png" group-title="Balkan", RTS 1 HD
+#EXTINF:-1 tvg-ID="RTS 1 HD.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts1-rs.png" group-title="Balkan", RTS 1
 plugin://plugin.video.vavooto/?name=RTS 1 .s
-#EXTINF:-1 tvg-ID="RTS2.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts2-rs.png" group-title="Balkan", RTS 2
+#EXTINF:-1 tvg-ID="RTS 2 HD.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts2-rs.png" group-title="Balkan", RTS 2
 plugin://plugin.video.vavooto/?name=RTS 2 .s
-#EXTINF:-1 tvg-ID="RTS3.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts3-rs.png" group-title="Balkan", RTS 3
+#EXTINF:-1 tvg-ID="RTS 3 HD.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts3-rs.png" group-title="Balkan", RTS 3
 plugin://plugin.video.vavooto/?name=RTS 3 .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts-drama-rs.png" group-title="Balkan", RTS DRAMA
 plugin://plugin.video.vavooto/?name=RTS DRAMA .s
