@@ -248,21 +248,17 @@ plugin://plugin.video.vavooto/?name=SPORT KLUB 3 .b
 plugin://plugin.video.vavooto/?name=SPORT KLUB 4 .b
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/sportklub-5-hr.png" group-title="Balkan",SPORT KLUB 5
 plugin://plugin.video.vavooto/?name=SPORT KLUB 5 .c
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/sportklub-6-hr.png" group-title="Balkan",SPORT KLUB 6
-plugin://plugin.video.vavooto/?name=SPORT KLUB 6 .c
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SPORT KLUB 7 .c
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/sportklub-7-hr.png" group-title="Balkan",SPORT KLUB 7
 plugin://plugin.video.vavooto/?name=SPORT KLUB 7 .c
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SPORT KLUB 8 .c
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/sportklub-8-hr.png" group-title="Balkan",SPORT KLUB 8
 plugin://plugin.video.vavooto/?name=SPORT KLUB 8 .c
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",STUDIO B .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/studio-b-rs.png" group-title="Balkan",STUDIO B
 plugin://plugin.video.vavooto/?name=STUDIO B .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SUPER STAR TV HD .b
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/superstar-tv-rs.png" group-title="Balkan",SUPER STAR TV HD
 plugin://plugin.video.vavooto/?name=SUPER STAR TV HD .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SUPER TV .c
-plugin://plugin.video.vavooto/?name=SUPER TV .c
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",TLC .b
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/tlc-rs.png" group-title="Balkan",TLC
 plugin://plugin.video.vavooto/?name=TLC .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",TOM AND JERRY .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/tom-and-jerry.png" group-title="Balkan",TOM AND JERRY .s
 plugin://plugin.video.vavooto/?name=TOM AND JERRY .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",TV NASHA .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/nasa-tv-logo_finalno.png" group-title="Balkan",TV NASHA
 plugin://plugin.video.vavooto/?name=TV NASHA .s
