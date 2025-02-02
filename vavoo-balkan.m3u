@@ -76,24 +76,22 @@ plugin://plugin.video.vavooto/?name=BALKANIKA .s
 plugin://plugin.video.vavooto/?name=CRIME%2b INVESTIGATION .c
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/world-latin-america/star-channel-lam.png" group-title="Balkan",STAR Chanel
 plugin://plugin.video.vavooto/?name=FOX .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/fox-crime-rs.png" group-title="Balkan",STAR Crime
-plugin://plugin.video.vavooto/?name=FOX CRIME .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/hbo-rs.png" group-title="Balkan",HBO .s
-plugin://plugin.video.vavooto/?name=HBO .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/hbo2-rs.png" group-title="Balkan",HBO 2 .s
-plugin://plugin.video.vavooto/?name=HBO 2 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/hbo3-rs.png" group-title="Balkan",HBO 3 .s
-plugin://plugin.video.vavooto/?name=HBO 3 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/argentina/star-life-ar.png" group-title="Balkan",STAR Life
+plugin://plugin.video.vavooto/?name=FOX LIFE .c
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/220px-Star_Movies_2023.svg.png" group-title="Balkan",Star MOVIES
+plugin://plugin.video.vavooto/?name=FOX MOVIES .b
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/Star_Crime_2023.png" group-title="Balkan",STAR CRIME .c
 plugin://plugin.video.vavooto/?name=STAR CRIME .c
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/hbo-rs.png" group-title="Balkan",HBO
+plugin://plugin.video.vavooto/?name=HBO .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/hbo2-rs.png" group-title="Balkan",HBO 2
+plugin://plugin.video.vavooto/?name=HBO 2 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/hbo3-rs.png" group-title="Balkan",HBO 3
+plugin://plugin.video.vavooto/?name=HBO 3 .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/international/filmbox-int.png" group-title="Balkan",FILMBOX Stars .s
 plugin://plugin.video.vavooto/?name=FILMBOX .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/food-network-rs.png" group-title="Balkan",FOOD NETWORK .s
 plugin://plugin.video.vavooto/?name=FOOD NETWORK .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/argentina/star-life-ar.png" group-title="Balkan",STAR Life .c
-plugin://plugin.video.vavooto/?name=FOX LIFE .c
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/220px-Star_Movies_2023.svg.png" group-title="Balkan",Star MOVIES .b
-plugin://plugin.video.vavooto/?name=FOX MOVIES .b
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/sci-fi-rs.png" group-title="Balkan",SCIFI .b
 plugin://plugin.video.vavooto/?name=SCIFI .b
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",CINE+ SELECT 1 .s
