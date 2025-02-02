@@ -202,56 +202,54 @@ plugin://plugin.video.vavooto/?name=PINK WESTERN .s
 plugin://plugin.video.vavooto/?name=PINK WORLD CINEMA .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/pink-zabava-rs.png" group-title="Balkan",PINK ZABAVA
 plugin://plugin.video.vavooto/?name=PINK ZABAVA .b
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/prva-rs.png" group-title="Balkan",PRVA
+plugin://plugin.video.vavooto/?name=PRVA TV .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/prva-kick-rs.png" group-title="Balkan",PRVA KICK
 plugin://plugin.video.vavooto/?name=PRVA KICK .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/prva-max-rs.png" group-title="Balkan",PRVA MAX
 plugin://plugin.video.vavooto/?name=PRVA MAX .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/prva-plus-rs.png" group-title="Balkan",PRVA PLUS
 plugin://plugin.video.vavooto/?name=PRVA PLUS .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/prva-rs.png" group-title="Balkan",PRVA
-plugin://plugin.video.vavooto/?name=PRVA TV .s
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/prva-world-rs.png" group-title="Balkan",PRVA WORLD
 plugin://plugin.video.vavooto/?name=PRVA WORLD TV .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",RED TV .s
-plugin://plugin.video.vavooto/?name=RED TV .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",RTCG 1 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/TVCG_1_Logo_2024.png" group-title="Balkan",RTCG 1
 plugin://plugin.video.vavooto/?name=RTCG 1 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",RTCG 2 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/TVCG_2_Logo_2024.svg.png" group-title="Balkan",RTCG 2
 plugin://plugin.video.vavooto/?name=RTCG 2 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",RTCG SAT .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/TVCG_MNE_Logo_2024.svg.png" group-title="Balkan",RTCG SAT
 plugin://plugin.video.vavooto/?name=RTCG SAT .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",EUROSPORT 1 .c
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/eurosport-1-rs.png" group-title="Balkan",EUROSPORT 1
 plugin://plugin.video.vavooto/?name=EUROSPORT 1 .c
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",EUROSPORT 2 .c
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/eurosport-2-rs.png" group-title="Balkan",EUROSPORT 2
 plugin://plugin.video.vavooto/?name=EUROSPORT 2 .c
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",ARENA SPORT 1 SRB .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/arena-sport-1-rs.png" group-title="Balkan",ARENA SPORT 1 SRB
 plugin://plugin.video.vavooto/?name=ARENA SPORT 1 SRB .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",ARENA SPORT 2 SRB .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/arena-sport-2-rs.png" group-title="Balkan",ARENA SPORT 2 SRB
 plugin://plugin.video.vavooto/?name=ARENA SPORT 2 SRB .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",ARENA SPORT 3 SRB .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/arena-sport-3-rs.png" group-title="Balkan",ARENA SPORT 3 SRB
 plugin://plugin.video.vavooto/?name=ARENA SPORT 3 SRB .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",ARENA SPORT 4 SRB .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/arena-sport-4-rs.png" group-title="Balkan",ARENA SPORT 4 SRB
 plugin://plugin.video.vavooto/?name=ARENA SPORT 4 SRB .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",ARENA SPORT 5 SRB .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/arena-sport-5-rs.png" group-title="Balkan",ARENA SPORT 5 SRB
 plugin://plugin.video.vavooto/?name=ARENA SPORT 5 SRB .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",ARENA SPORT PREMIUM 1 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/arena-premium-1-hd.png" group-title="Balkan",ARENA SPORT PREMIUM 1
 plugin://plugin.video.vavooto/?name=ARENA SPORT PREMIUM 1 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",ARENA SPORT PREMIUM 2 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/arena-premium-2-hd.png" group-title="Balkan",ARENA SPORT PREMIUM 2
 plugin://plugin.video.vavooto/?name=ARENA SPORT PREMIUM 2 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",ARENA SPORT PREMIUM 3 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/arena-premium-3-hd.png" group-title="Balkan",ARENA SPORT PREMIUM 3
 plugin://plugin.video.vavooto/?name=ARENA SPORT PREMIUM 3 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SOS KANAL .s
-plugin://plugin.video.vavooto/?name=SOS KANAL .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SPORT KLUB 1 .s
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/sportklub-1-hr.png" group-title="Balkan",SPORT KLUB 1
 plugin://plugin.video.vavooto/?name=SPORT KLUB 1 .s
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SPORT KLUB 2 .b
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/sportklub-2-hr.png" group-title="Balkan",SPORT KLUB 2
 plugin://plugin.video.vavooto/?name=SPORT KLUB 2 .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SPORT KLUB 3 .b
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/sportklub-3-hr.png" group-title="Balkan",SPORT KLUB 3
 plugin://plugin.video.vavooto/?name=SPORT KLUB 3 .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SPORT KLUB 4 .b
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/sportklub-4-hr.png" group-title="Balkan",SPORT KLUB 4
 plugin://plugin.video.vavooto/?name=SPORT KLUB 4 .b
-#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SPORT KLUB 5 .c
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/sportklub-5-hr.png" group-title="Balkan",SPORT KLUB 5
 plugin://plugin.video.vavooto/?name=SPORT KLUB 5 .c
+#EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/sportklub-6-hr.png" group-title="Balkan",SPORT KLUB 6
+plugin://plugin.video.vavooto/?name=SPORT KLUB 6 .c
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SPORT KLUB 7 .c
 plugin://plugin.video.vavooto/?name=SPORT KLUB 7 .c
 #EXTINF:-1 tvg-ID="xxxxxxxxx" tvg-logo="xxxxxxxxxx" group-title="Balkan",SPORT KLUB 8 .c
