@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="RTS1.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts1-rs.png" group-title="Balkan",RTS 1
+#EXTINF:-1 tvg-ID="RTS 1 HD" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts1-rs.png" group-title="Balkan",RTS 1
 plugin://plugin.video.vavooto/?name=RTS 1 .s
 #EXTINF:-1 tvg-ID="RTS2.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts2-rs.png" group-title="Balkan",RTS 2
 plugin://plugin.video.vavooto/?name=RTS 2 .s
