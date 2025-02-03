@@ -20,6 +20,8 @@ plugin://plugin.video.vavooto/?name=24 KITCHEN .s
 plugin://plugin.video.vavooto/?name=N1 SRB .s
 #EXTINF:-1 tvg-ID="Al Jazeera.rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/Aljazeera_Balkans_alternativ.png" group-title="Balkan", ALJAZEERA BALKANS
 plugin://plugin.video.vavooto/?name=ALJAZEERA BALKANS .c
+#EXTINF:-1 tvg-ID="Vesti HD (Pink 3 info).rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/vesti-rs.png" group-title="Balkan", VESTI
+plugin://plugin.video.vavooto/?name=PINK 3 .b
 #EXTINF:-1 tvg-ID="AMC.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/amc-rs.png" group-title="Balkan", AMC
 plugin://plugin.video.vavooto/?name=AMC .c
 #EXTINF:-1 tvg-ID="Animal Planet HD (SR).rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/animal-planet-de.png" group-title="Balkan", ANIMAL PLANET
@@ -110,11 +112,9 @@ plugin://plugin.video.vavooto/?name=KCN 1 .s
 plugin://plugin.video.vavooto/?name=KCN 2 .s
 #EXTINF:-1 tvg-ID="K::CN 3 Svet Plus.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/kcn3-svet-plus-rs.png" group-title="Balkan", KCN 3
 plugin://plugin.video.vavooto/?name=KCN 3 .s
-#EXTINF:-1 tvg-ID="Vesti.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/vesti-rs.png" group-title="Balkan", VESTI
-plugin://plugin.video.vavooto/?name=PINK 3 .b
-#EXTINF:-1 tvg-ID="RTV PINK.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/pink-rs.png" group-title="Balkan", PINK
+#EXTINF:-1 tvg-ID="PINK.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/pink-rs.png" group-title="Balkan", PINK
 plugin://plugin.video.vavooto/?name=PINK 1 .b
-#EXTINF:-1 tvg-ID="RED tv.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/red-rs.png" group-title="Balkan", RED
+#EXTINF:-1 tvg-ID="Red TV.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/red-rs.png" group-title="Balkan", RED
 plugin://plugin.video.vavooto/?name=PINK 2 .b
 #EXTINF:-1 tvg-ID="Pink Action.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/pink-action-rs.png" group-title="Balkan", PINK ACTION
 plugin://plugin.video.vavooto/?name=PINK ACTION .b
@@ -126,7 +126,7 @@ plugin://plugin.video.vavooto/?name=PINK COMEDY .b
 plugin://plugin.video.vavooto/?name=PINK CRIME %26 MYSTERY .b
 #EXTINF:-1 tvg-ID="TV PINK EXTRA.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/pink-extra-rs.png" group-title="Balkan", PINK EXTRA
 plugin://plugin.video.vavooto/?name=PINK EXTRA .b
-#EXTINF:-1 tvg-ID="TV PINK EXTRA.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/pink-family-rs.png" group-title="Balkan", PINK FAMILY
+#EXTINF:-1 tvg-ID="Pink Family.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/pink-family-rs.png" group-title="Balkan", PINK FAMILY
 plugin://plugin.video.vavooto/?name=PINK FAMILY .b
 #EXTINF:-1 tvg-ID="PINK Film.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/pink-film-rs.png" group-title="Balkan", PINK FILM
 plugin://plugin.video.vavooto/?name=PINK FILM .b
