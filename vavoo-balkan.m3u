@@ -18,12 +18,8 @@ plugin://plugin.video.vavooto/?name=RTS ZIVOT .s
 plugin://plugin.video.vavooto/?name=24 KITCHEN .s
 #EXTINF:-1 tvg-ID="N1 HD (SR).rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/N1_TV_logo.png" group-title="Balkan", N1
 plugin://plugin.video.vavooto/?name=N1 SRB .s
-#EXTINF:-1 tvg-ID="ALFA TV.rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/AlfaTV.png" group-title="Balkan", ALFA TV
-plugin://plugin.video.vavooto/?name=ALFA TV .c
 #EXTINF:-1 tvg-ID="Al Jazeera.rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/Aljazeera_Balkans_alternativ.png" group-title="Balkan", ALJAZEERA BALKANS
 plugin://plugin.video.vavooto/?name=ALJAZEERA BALKANS .c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/AlternativnaTV.png" group-title="Balkan", ALTERNATIVNA TV
-plugin://plugin.video.vavooto/?name=ALTERNATIVNA TV .c
 #EXTINF:-1 tvg-ID="AMC.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/amc-rs.png" group-title="Balkan", AMC
 plugin://plugin.video.vavooto/?name=AMC .c
 #EXTINF:-1 tvg-ID="Animal Planet HD (SR).rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/animal-planet-de.png" group-title="Balkan", ANIMAL PLANET
@@ -98,9 +94,9 @@ plugin://plugin.video.vavooto/?name=CINEMANIA .b
 plugin://plugin.video.vavooto/?name=CINEMAX 1 .s
 #EXTINF:-1 tvg-ID="Cinemax 2 HD.rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/Cinemax_new.png" group-title="Balkan", CINEMAX 2
 plugin://plugin.video.vavooto/?name=CINEMAX 2 .s
-#EXTINF:-1 tvg-ID="CineStar TV Action HD (SR).rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/cinestar-tv-action-rs.png" group-title="Balkan", CINESTAR ACTION
+#EXTINF:-1 tvg-ID="Cinestar Action and Thriller.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/cinestar-tv-action-rs.png" group-title="Balkan", CINESTAR ACTION
 plugin://plugin.video.vavooto/?name=CINESTAR ACTION .b
-#EXTINF:-1 tvg-ID="CineStar TV Fantasy HD (SR).rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/cinestar-tv-fantasy-rs.png" group-title="Balkan", CINESTAR FANTASY
+#EXTINF:-1 tvg-ID="Cinestar Fantasy.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/cinestar-tv-fantasy-rs.png" group-title="Balkan", CINESTAR FANTASY
 plugin://plugin.video.vavooto/?name=CINESTAR FANTASY .s
 #EXTINF:-1 tvg-ID="CineStar TV Premiere 1 HD (SR).rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/croatia/cinestar-tv-premiere1-hr.png" group-title="Balkan", CINESTAR PREMIERE 1
 plugin://plugin.video.vavooto/?name=CINESTAR PREMIERE 1 .b
