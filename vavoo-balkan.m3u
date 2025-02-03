@@ -110,7 +110,7 @@ plugin://plugin.video.vavooto/?name=KCN 1 .s
 plugin://plugin.video.vavooto/?name=KCN 2 .s
 #EXTINF:-1 tvg-ID="K::CN 3 Svet Plus.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/kcn3-svet-plus-rs.png" group-title="Balkan", KCN 3
 plugin://plugin.video.vavooto/?name=KCN 3 .s
-#EXTINF:-1 tvg-ID="Vesti HD (Pink 3 info).rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/vesti-rs.png" group-title="Balkan", VESTI
+#EXTINF:-1 tvg-ID="Vesti.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/vesti-rs.png" group-title="Balkan", VESTI
 plugin://plugin.video.vavooto/?name=PINK 3 .b
 #EXTINF:-1 tvg-ID="RTV PINK.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/pink-rs.png" group-title="Balkan", PINK
 plugin://plugin.video.vavooto/?name=PINK 1 .b
