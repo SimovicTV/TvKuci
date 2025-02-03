@@ -16,6 +16,8 @@ plugin://plugin.video.vavooto/?name=RTS TREZOR .s
 plugin://plugin.video.vavooto/?name=RTS ZIVOT .s
 #EXTINF:-1 tvg-ID="24 Kitchen.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/24-kitchen-rs.png" group-title="Balkan", 24 KITCHEN
 plugin://plugin.video.vavooto/?name=24 KITCHEN .s
+#EXTINF:-1 tvg-ID="N1 HD (SR).rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/N1_TV_logo.png" group-title="Balkan", N1
+plugin://plugin.video.vavooto/?name=N1 SRB .s
 #EXTINF:-1 tvg-ID="ALFA TV.rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/AlfaTV.png" group-title="Balkan", ALFA TV
 plugin://plugin.video.vavooto/?name=ALFA TV .c
 #EXTINF:-1 tvg-ID="Al Jazeera.rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/Aljazeera_Balkans_alternativ.png" group-title="Balkan", ALJAZEERA BALKANS
@@ -112,8 +114,6 @@ plugin://plugin.video.vavooto/?name=KCN 1 .s
 plugin://plugin.video.vavooto/?name=KCN 2 .s
 #EXTINF:-1 tvg-ID="K::CN 3 Svet Plus.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/kcn3-svet-plus-rs.png" group-title="Balkan", KCN 3
 plugin://plugin.video.vavooto/?name=KCN 3 .s
-#EXTINF:-1 tvg-ID="N1 HD (SR).rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/N1_TV_logo.png" group-title="Balkan", N1
-plugin://plugin.video.vavooto/?name=N1 SRB .s
 #EXTINF:-1 tvg-ID="Vesti HD (Pink 3 info).rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/vesti-rs.png" group-title="Balkan", VESTI
 plugin://plugin.video.vavooto/?name=PINK 3 .b
 #EXTINF:-1 tvg-ID="RTV PINK.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/pink-rs.png" group-title="Balkan", PINK
