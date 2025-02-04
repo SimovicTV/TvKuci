@@ -15,7 +15,7 @@ plugin://plugin.video.vavooto/?name=RTS TREZOR .s
 #EXTINF:-1 tvg-ID="RTS Život.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/rts-zivot-rs.png" group-title="Balkan", RTS ZIVOT
 plugin://plugin.video.vavooto/?name=RTS ZIVOT .s
 #EXTINF:-1 tvg-ID="24 Kitchen.rs" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/serbia/24-kitchen-rs.png" group-title="Balkan", 24 KITCHEN
-plugin://plugin.video.vavooto/?name=24 KITCHEN .s
+plugin://plugin.video.vavooto/?name=24 KITCHEN .c
 #EXTINF:-1 tvg-ID="N1 HD (SR).rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/N1_TV_logo.png" group-title="Balkan", N1
 plugin://plugin.video.vavooto/?name=N1 .c
 #EXTINF:-1 tvg-ID="Al Jazeera.rs" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/Aljazeera_Balkans_alternativ.png" group-title="Balkan", ALJAZEERA BALKANS
