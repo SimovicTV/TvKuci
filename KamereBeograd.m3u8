@@ -1,58 +1,126 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Ada
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Ada
 https://streamer.devnet.rs/hls/ada.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Autokomanda
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Autokomanda
 https://streamer.devnet.rs/hls/autokomanda.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Bogoslovija
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Bogoslovija
 https://streamer.devnet.rs/hls/bogoslovija.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Brankov most
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Brankov most
 https://streamer.devnet.rs/hls/brankov.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Despota Stefana
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Despota Stefana
 https://streamer.devnet.rs/hls/despotastefana.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Bul.Jurija Gagarina
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Bul.Jurija Gagarina
 https://streamer.devnet.rs/hls/gagarina.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Gazela most
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Gazela most
 https://streamer.devnet.rs/hls/gazela.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Genex autoput
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Genex autoput
 https://streamer.devnet.rs/hls/genex.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Nemanjina
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Nemanjina
 https://streamer.devnet.rs/hls/nemanjina.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Opstina NBG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Opstina NBG
 https://streamer.devnet.rs/hls/opstinanbg.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Pančevački most
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Pančevački most
 https://streamer.devnet.rs/hls/pancevac.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Plavi most (Medak)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Plavi most (Medak)
 https://streamer.devnet.rs/hls/plavimost.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Bul. Mihaila Pupina
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Bul. Mihaila Pupina
 https://streamer.devnet.rs/hls/pupina.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Slavija
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Slavija
 https://streamer.devnet.rs/hls/slavija.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Takovska
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Takovska
 https://streamer.devnet.rs/hls/takovska.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Trg Nikole Pašića
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Trg Nikole Pašića
 https://streamer.devnet.rs/hls/trgnikole.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Trg Republike
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Trg Republike
 https://streamer.devnet.rs/hls/trgrepublike.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Vukov spomenik
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Vukov spomenik
 https://streamer.devnet.rs/hls/vuk.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TvKuci/master/livecam.bmp" group-title="Kamere" , Železnicka stanica (stara).m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/naxi.jpg" group-title="Kamere" , Železnicka stanica (stara).m3u8
 https://streamer.devnet.rs/hls/zeleznicka.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Slavija
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Slavija 2
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/slavija2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Trg Republike
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/trg-republike/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , London 1
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/london-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , London 2
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/london-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Zeleni venac
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/zeleni-venac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Poštanska štedionica
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/postanska-stedionica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , BIP Pivara
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/bip-pivara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Autokomanda
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/autokomanda/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Stara autobuska stanica
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/autobuska-stanica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , SC prema ušću
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/sc-usce/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , SC prema Gayeli
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/camera-sc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Pančevački most
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/pancevac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Bubanj potok
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/bubanj-potok/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Dobanovci petlja
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/dobanovci-petlja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Yarkovo )kraj B.Brda
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/zarkovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , ADA most M.Konak
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/adamost-mkonak/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Južni bulevar
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/juzni_bulevar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Savski trg
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/savski-trg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Jurija Gargarina
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/jur1-gargarina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Serbia/27-7kamerebg.png" , Zmaj (pumpa)
+https://srbija-nadlanu.ott.solutions/srbija-nadlanu/zmaj-pumpa/playlist.m3u8
+
+
+
+
+
