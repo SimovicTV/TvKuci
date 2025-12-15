@@ -1,24 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/logo_dance-deluxe.png" group-title="Deluxe" , Deluxe Dance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu7t15Y.png" group-title="Deluxe" , Deluxe Dance
 #EXTVLCOPT:network-caching=1000
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/Deluxe-Musik-logo.png" group-title="Deluxe" , Deluxe Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="Deluxe" , Deluxe Music
 #EXTVLCOPT:network-caching=1000
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/DLX_RAP_LOGO_RGB-1.png" group-title="Deluxe" , Deluxe Rap
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Deluxe" , Deluxe Rap
 #EXTVLCOPT:network-caching=1000
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/SCHLAGER_DELUXE_LOGO_neu.png" group-title="Deluxe" , Schlager Deluxe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0W050H.png" group-title="Deluxe" , Schlager Deluxe
 #EXTVLCOPT:network-caching=1000
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SimovicTV/DETVLOGO/refs/heads/main/dasding.png" group-title="Misc" , DASDING 90.8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Logo-DASDING.png" group-title="Misc" , DASDING 90.8
 #EXTVLCOPT:network-caching=1000
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+
 
 
 
