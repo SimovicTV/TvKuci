@@ -4,7 +4,7 @@
 https://s6.hopslan.com/kabel1z/index.m3u8
 #EXTINF:-1 tvg-id="Kabel Eins.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/kabel-eins-de.png" group-title="German webTV",Kabel eins HD
 #EXTVLCOPT:network-caching=1000
-https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+https://stream.livestreamde.com/live/kabel1.m3u8
 #EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/rtl-de.png" group-title="German webTV",RTL HD
 #EXTVLCOPT:network-caching=1000
 https://stream.livestreamde.com/live/rtl.m3u8
@@ -68,16 +68,8 @@ https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 #EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/das-erste-de.png" group-title="German webTV",Das Erste HD
 #EXTVLCOPT:network-caching=1000
-https://s6.hopslan.com/ardX/index.m3u8
-#EXTINF:-1 tvg-id="ServusHD.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/servus-tv-deutchland-de.png" group-title="German webTV",Servus TV
-#EXTVLCOPT:network-caching=1000
-https://strm.hdtvizlecanli.com/live/servus.m3u8
-#EXTINF:-1 tvg-id="SCHLAGER DELUXE.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/schlager-deluxe-de.png" group-title="German webTV",Schlager DELUXE
-#EXTVLCOPT:network-caching=1000
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-id="DELUXE DANCE by Kontor.de" tvg-logo="https://raw.githubusercontent.com/SimovicTV/TVlogos/refs/heads/main/Deluxe_Dance_by_Kontor_Logo_2023.png" group-title="German webTV",DELUXE Dance
-#EXTVLCOPT:network-caching=1000
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+
 
 
 
