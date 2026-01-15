@@ -27,12 +27,6 @@ https://s6.hopslan.com/pro7z/index.m3u8
 #EXTINF:-1 tvg-id="SAT.1.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/sat-1-de.png" group-title="German webTV",Sat 1
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/sat1z/index.m3u8
-#EXTINF:-1 tvg-id="SAT.1.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/sat-1-de.png" group-title="German webTV",Sat 1 SD
-#EXTVLCOPT:network-caching=1000
-https://strm.hdtvizlecanli.com/live/sat1.m3u8
-#EXTINF:-1 tvg-id="sixx.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/sixx-de.png" group-title="German webTV",SIXX HD
-#EXTVLCOPT:network-caching=1000
-https://s6.hopslan.com/sixX/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/dmax-de.png" group-title="German webTV",DMAX
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/dmaxX/index.m3u8
@@ -42,9 +36,12 @@ https://s6.hopslan.com/pro7maxxX/index.m3u8
 #EXTINF:-1 tvg-id="Kabel Eins Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/kabel-eins-doku-de.png" group-title="German webTV",Kabel Eins Doku HD
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/dokuX/index.m3u8
-#EXTINF:-1 tvg-id="N24 Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/n24-doku-de.png" group-title="German webTV",n24 Doku HD
+#EXTINF:-1 tvg-id="N24 Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/n24-doku-de.png" group-title="German webTV",n24 Doku PLUTO
 #EXTVLCOPT:network-caching=1000
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1163-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c70bac9-b6d8-44d7-bde9-a992a6bfd7ab
+#EXTINF:-1 tvg-id="N24 Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/n24-doku-de.png" group-title="German webTV",n24 Doku
+#EXTVLCOPT:network-caching=1000
+https://s6.hopslan.com/dokuX/index.m3u8
 #EXTINF:-1 tvg-id="n-tv.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/ntv-de.png" group-title="German webTV",n-tv
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/ntvX/index.m3u8
@@ -60,14 +57,12 @@ https://s6.hopslan.com/zdfX1/index.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/zdf-neo-de.png" group-title="German webTV",ZDF Neo
 #EXTVLCOPT:network-caching=1000
 https://strm.hdtvizlecanli.com/live/zdfneo.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/zdf-neo-de.png" group-title="German webTV",ZDF Neo HD
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/zdf-info-de.png" group-title="German webTV",ZDF Info
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 #EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/das-erste-de.png" group-title="German webTV",Das Erste HD
 #EXTVLCOPT:network-caching=1000
+
 
 
 
