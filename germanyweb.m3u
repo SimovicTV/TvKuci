@@ -1,66 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Kabel Eins.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/kabel-eins-de.png" group-title="German webTV",Kabel 1
+#EXTINF:-1 tvg-id="Kabel Eins.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/kabel-eins-de.png" group-title="2ix2",Kabel 1
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/kabel1z/index.m3u8
-#EXTINF:-1 tvg-id="Kabel Eins.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/kabel-eins-de.png" group-title="German webTV",Kabel eins HD
+#EXTINF:-1 tvg-id="Kabel Eins.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/kabel-eins-de.png" group-title="2ix2",Kabel eins HD
 #EXTVLCOPT:network-caching=1000
 https://stream.livestreamde.com/live/kabel1.m3u8
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/rtl-de.png" group-title="German webTV",RTL HD
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/rtl-de.png" group-title="2ix2",RTL HD
 #EXTVLCOPT:network-caching=1000
 https://stream.livestreamde.com/live/rtl.m3u8
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/rtl-de.png" group-title="German webTV",RTL
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/rtl-de.png" group-title="2ix2",RTL
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/rtla11/index.m3u8
-#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/rtl-zwei-de.png" group-title="German webTV",RTLZWEI HD
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/rtl-zwei-de.png" group-title="2ix2",RTLZWEI HD
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/rtl2q/index.m3u8
-#EXTINF:-1 tvg-id="VOX.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/vox-de.png" group-title="German webTV",VOX
+#EXTINF:-1 tvg-id="VOX.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/vox-de.png" group-title="2ix2",VOX
 https://s6.hopslan.com/voxz/index.m3u8
 #EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="NITRO.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/nitro-de.png" group-title="German webTV",NITRO
+#EXTINF:-1 tvg-id="NITRO.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/nitro-de.png" group-title="2ix2",NITRO
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/nitro1/index.m3u8
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/pro-sieben-de.png" group-title="German webTV",ProSieben
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/pro-sieben-de.png" group-title="2ix2",ProSieben
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/pro7z/index.m3u8
-#EXTINF:-1 tvg-id="SAT.1.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/sat-1-de.png" group-title="German webTV",Sat 1
+#EXTINF:-1 tvg-id="SAT.1.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/sat-1-de.png" group-title="2ix2",Sat 1
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/sat1z/index.m3u8
-#EXTINF:-1 tvg-id="sixx.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/germany/sixx-de.png" group-title="German webTV",SIXX
+#EXTINF:-1 tvg-id="sixx.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/refs/heads/master/countries/germany/sixx-de.png" group-title="2ix2",SIXX
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/sixX/index.m3u8
-#EXTINF:-1 tvg-id="DMAX.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/dmax-de.png" group-title="German webTV",DMAX
+#EXTINF:-1 tvg-id="DMAX.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/dmax-de.png" group-title="2ix2",DMAX
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/dmaxX/index.m3u8
-#EXTINF:-1 tvg-id="ProSieben MAXX.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/pro-sieben-maxx-de.png" group-title="German webTV",Pro7 MAXX HD
+#EXTINF:-1 tvg-id="ProSieben MAXX.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/pro-sieben-maxx-de.png" group-title="2ix2",Pro7 MAXX HD
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/pro7maxxX/index.m3u8
-#EXTINF:-1 tvg-id="Kabel Eins Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/kabel-eins-doku-de.png" group-title="German webTV",Kabel Eins Doku HD
+#EXTINF:-1 tvg-id="Kabel Eins Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/kabel-eins-doku-de.png" group-title="2ix2",Kabel Eins Doku HD
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/dokuX/index.m3u8
-#EXTINF:-1 tvg-id="N24 Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/n24-doku-de.png" group-title="German webTV",n24 Doku
+#EXTINF:-1 tvg-id="N24 Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/n24-doku-de.png" group-title="2ix2",n24 Doku
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/dokuX/index.m3u8
-#EXTINF:-1 tvg-id="n-tv.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/ntv-de.png" group-title="German webTV",n-tv
+#EXTINF:-1 tvg-id="n-tv.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/ntv-de.png" group-title="2ix2",n-tv
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/ntvX/index.m3u8
-#EXTINF:-1 tvg-id="n-tv.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/ntv-de.png" group-title="German webTV",N-TV HD
+#EXTINF:-1 tvg-id="n-tv.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/ntv-de.png" group-title="2ix2",N-TV HD
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
-#EXTINF:-1 tvg-id="WELT.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/welt-de.png" group-title="German webTV",WELT
+#EXTINF:-1 tvg-id="WELT.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/welt-de.png" group-title="2ix2",WELT
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/zdf-de.png" group-title="German webTV",ZDF HD
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/zdf-de.png" group-title="2ix2",ZDF HD
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/zdfX1/index.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/zdf-neo-de.png" group-title="German webTV",ZDF Neo
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/zdf-neo-de.png" group-title="2ix2",ZDF Neo
 #EXTVLCOPT:network-caching=1000
 https://stream.livestreamde.com/live/zdfneo.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/zdf-info-de.png" group-title="German webTV",ZDF Info
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/zdf-info-de.png" group-title="2ix2",ZDF Info
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
-#EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/das-erste-de.png" group-title="German webTV",Das Erste HD
+#EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/das-erste-de.png" group-title="2ix2",Das Erste HD
 #EXTVLCOPT:network-caching=1000
+
 
 
 
