@@ -15,7 +15,6 @@ https://s6.hopslan.com/rtla11/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/rtl2q/index.m3u8
 #EXTINF:-1 tvg-id="VOX.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/vox-de.png" group-title="German webTV",VOX
-#EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/voxz/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="NITRO.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/nitro-de.png" group-title="German webTV",NITRO
@@ -62,6 +61,7 @@ https://stream.livestreamde.com/live/zdfneo.m3u8
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 #EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/das-erste-de.png" group-title="German webTV",Das Erste HD
 #EXTVLCOPT:network-caching=1000
+
 
 
 
