@@ -36,9 +36,6 @@ https://s6.hopslan.com/pro7maxxX/index.m3u8
 #EXTINF:-1 tvg-id="Kabel Eins Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/kabel-eins-doku-de.png" group-title="German webTV",Kabel Eins Doku HD
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/dokuX/index.m3u8
-#EXTINF:-1 tvg-id="N24 Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/n24-doku-de.png" group-title="German webTV",n24 Doku PLUTO
-#EXTVLCOPT:network-caching=1000
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1163-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c70bac9-b6d8-44d7-bde9-a992a6bfd7ab
 #EXTINF:-1 tvg-id="N24 Doku.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/n24-doku-de.png" group-title="German webTV",n24 Doku
 #EXTVLCOPT:network-caching=1000
 https://s6.hopslan.com/dokuX/index.m3u8
@@ -62,6 +59,7 @@ https://stream.livestreamde.com/live/zdfneo.m3u8
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 #EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://raw.githubusercontent.com/Fourqui/tv/0aaa9cf2f8557543ab4b22d5b71c6eff7103f770/countries/germany/das-erste-de.png" group-title="German webTV",Das Erste HD
 #EXTVLCOPT:network-caching=1000
+
 
 
 
